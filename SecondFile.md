@@ -7,6 +7,6 @@ service_agent: disabled
 copilot: disabled
 sales_agent: disabled
 ---
-This is a file
+Suggested edit 8 from the GitHub sync test script.
 
 This is a change to second repo
