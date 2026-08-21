@@ -8,3 +8,5 @@ copilot: disabled
 sales_agent: disabled
 ---
 Suggested edit 9 from the GitHub sync test script.
+
+Should open pr button
