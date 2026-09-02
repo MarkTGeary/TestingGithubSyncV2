@@ -7,11 +7,11 @@ service_agent: disabled
 copilot: disabled
 sales_agent: disabled
 ---
-# Inviting Team Members
+# Inviting Team Members {#h_c116f7f58d}
 
 Great work happens together. Adding teammates takes just a few seconds, and roles make sure everyone has exactly the access they need — no more, no less. This guide covers inviting people, choosing roles, and keeping your team tidy over time.
 
-## Send an invite
+## Send an invite {#h_4ffe153ad4}
 
 1. Go to **Members**
 2. Click **Invite**
@@ -20,7 +20,7 @@ Great work happens together. Adding teammates takes just a few seconds, and role
 
 Your teammate receives an email invitation and can join right away. You can invite several people at once by entering multiple email addresses, which is handy when onboarding a whole team.
 
-## Choose the right role
+## Choose the right role {#h_ef28e2f9c8}
 
 Each role comes with a clear set of permissions:
 
@@ -30,8 +30,8 @@ Each role comes with a clear set of permissions:
 
 Picking the right role up front saves you from untangling permissions later.
 
-## Manage your team
+## Manage your team {#h_9868eacf77}
 
 Need to make a change? Open the **Members** list to update someone's role or remove their access at any time. Role changes take effect immediately, and removed members lose access the moment you confirm.
 
-> 👥 **Best practice:** Give people the lowest role that still lets them do their job, then promote as their responsibilities grow. It's the safest way to scale a team.
+👥 **Best practice:** Give people the lowest role that still lets them do their job, then promote as their responsibilities grow. It's the safest way to scale a team.
