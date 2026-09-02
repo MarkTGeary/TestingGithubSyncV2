@@ -7,13 +7,24 @@ service_agent: disabled
 copilot: disabled
 sales_agent: disabled
 ---
-# Billing and Plans {#h_307876ba9e}
+# Billing and Plans
 
-Your billing settings show your current plan, usage, and payment history. You  
-can review and update them from the Billing section.
+Everything about your subscription — your current plan, usage, invoices, and payment method — lives in the **Billing** section. This guide shows you how to read it, change your plan, and find the paperwork you need.
 
-To upgrade or downgrade, select Change Plan and pick the option that fits your  
-needs. Changes take effect at the start of your next billing cycle.
+## Review your plan
 
-Invoices are generated automatically and emailed to your billing contact. You  
-can also download past invoices from the Billing page.
+At a glance, the Billing page shows your **current plan**, your **usage this cycle**, and your **next renewal date**. Keeping an eye on usage helps you spot when it might be time to move up a tier before you hit a limit.
+
+## Upgrade or downgrade
+
+1. Open **Billing → Change Plan**
+2. Compare the available plans side by side
+3. Select the one that fits and confirm
+
+> 📅 **Good to know:** Plan changes take effect at the start of your next billing cycle, so you'll never lose time you've already paid for, and you won't be double-charged.
+
+## Invoices and receipts
+
+Every invoice is generated automatically and emailed to your billing contact as soon as it's ready. Need an older one for an expense report or your accounting team? Download any past invoice directly from the Billing page — they're all kept on file and available whenever you need them.
+
+If a charge ever looks unexpected, reach out to support with the invoice number and we'll walk through it with you.
