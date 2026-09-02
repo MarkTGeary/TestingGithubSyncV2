@@ -7,13 +7,27 @@ service_agent: disabled
 copilot: disabled
 sales_agent: disabled
 ---
-# Managing Your Account {#h_b31f68bb92}
+# Managing Your Account
 
-Your account settings control your personal information and preferences. You  
-can update them at any time from the Account section.
+Your account is your home base. Everything about how you appear, how you sign in, and how you stay secure lives in one place — and this guide covers all of it.
 
-To change your password, go to Security and select Change Password. We  
-recommend a strong, unique password and enabling two-factor authentication.
+## Update your profile
 
-You can also manage your email preferences, connected devices, and active  
-sessions from this section.
+From **Settings → Account**, you can change your display name, email address, profile photo, and preferred language at any time. Changes save instantly, so there's no separate confirmation step to remember. Keeping this information current helps teammates recognize you across projects and comments.
+
+## Keep your account secure
+
+Security is worth a couple of minutes of your time. Here are the settings that matter most:
+
+| Setting | Where | Why it matters |
+|---|---|---|
+| Password | Security → Change Password | Use a strong, unique password |
+| Two-factor auth | Security → 2FA | Adds a second layer of protection |
+| Active sessions | Security → Sessions | Sign out devices you no longer use |
+
+> 🔒 **We strongly recommend enabling two-factor authentication.** It's the single most effective way to keep your account safe, and it takes less than a minute to set up.
+
+## Manage connected devices
+
+Review every device currently signed in to your account under **Security → Sessions**. If you spot something unfamiliar — an old phone, a shared computer, or a location you don't recognize — sign it out with one click and change your password right away. It's a good habit to check this list every few months.
+
