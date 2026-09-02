@@ -1,12 +1,12 @@
 ---
 title: Delete This Article
 description: A dedicated article for testing deletion through GitHub sync.
-state: published
-service_agent: enabled
-copilot: enabled
+published: true
+audience: everyone
+service_agent: disabled
+copilot: disabled
+sales_agent: disabled
 ---
+# Delete This Article {#h_bb3c9b4357}
 
-# Delete This Article
-
-This article exists to be deleted. Remove the file from the repo and confirm
-the article is removed or archived in Fin on the next sync.
+This article exists to be deleted. Delete this file on Intercom. The file should stay live until you merge the PR on Github.
