@@ -1,2 +1,0 @@
-# TestingGithubSyncV2
-Testing
