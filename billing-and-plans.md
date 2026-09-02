@@ -1,9 +1,11 @@
 ---
 title: Billing and Plans
 description: Understand your subscription, invoices, and how to upgrade.
-state: published
-service_agent: enabled
-copilot: enabled
+published: true
+audience: everyone
+service_agent: disabled
+copilot: disabled
+sales_agent: disabled
 ---
 
 # Billing and Plans
