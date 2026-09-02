@@ -1,9 +1,11 @@
 ---
 title: Troubleshooting Common Issues
 description: Quick fixes for the most common problems.
-state: published
-service_agent: enabled
-copilot: enabled
+published: true
+audience: everyone
+service_agent: disabled
+copilot: disabled
+sales_agent: disabled
 ---
 
 # Troubleshooting Common Issues

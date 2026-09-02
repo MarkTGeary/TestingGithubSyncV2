@@ -1,9 +1,11 @@
 ---
 title: Inviting Team Members
 description: Learn how to add teammates and assign them roles.
-state: published
-service_agent: enabled
-copilot: enabled
+published: true
+audience: everyone
+service_agent: disabled
+copilot: disabled
+sales_agent: disabled
 ---
 
 # Inviting Team Members

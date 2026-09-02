@@ -1,9 +1,11 @@
 ---
 title: Managing Your Account
 description: How to update your profile, password, and account preferences.
-state: published
-service_agent: enabled
-copilot: enabled
+published: true
+audience: everyone
+service_agent: disabled
+copilot: disabled
+sales_agent: disabled
 ---
 
 # Managing Your Account

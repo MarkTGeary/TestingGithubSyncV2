@@ -1,9 +1,11 @@
 ---
 title: Frequently Asked Questions
 description: Answers to the questions we hear most often.
-state: published
-service_agent: enabled
-copilot: enabled
+published: true
+audience: everyone
+service_agent: disabled
+copilot: disabled
+sales_agent: disabled
 ---
 
 # Frequently Asked Questions
