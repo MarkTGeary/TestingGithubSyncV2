@@ -7,14 +7,28 @@ service_agent: disabled
 copilot: disabled
 sales_agent: disabled
 ---
-# Troubleshooting Common Issues {#h_fd24fbb1c0}
+# Troubleshooting Common Issues
 
-Most issues can be resolved with a few quick steps. Start by refreshing the  
-page and confirming you have an active internet connection.
+Running into trouble? Don't worry — the vast majority of issues are quick to resolve on your own. Work through these steps in order and you'll likely be back up and running in no time.
 
-If a problem persists, clear your browser cache and make sure you're on the  
-latest supported browser version. Disabling browser extensions can also help  
-rule out conflicts.
+## Start with the basics
 
-Still stuck? Contact support with a description of the issue and any error  
-messages you saw.
+1. **Refresh the page** — clears temporary glitches and reloads the latest version
+2. **Check your connection** — try loading another site to confirm you're online
+3. **Try a different browser or device** — this helps narrow down where the problem lives
+
+Nine times out of ten, one of these three steps does the trick.
+
+## Still stuck? Dig a little deeper
+
+- **Clear your cache** — old cached files are one of the most common culprits
+- **Update your browser** — we support the latest versions, and older ones can behave unexpectedly
+- **Disable extensions** — ad blockers and privacy tools sometimes interfere with core features
+
+Try these one at a time so you can tell which one actually fixed things.
+
+> ⚠️ **Before contacting support**, jot down any error messages you see and the exact steps that led to the issue. That context helps us help you far faster.
+
+## Contact support
+
+Still not resolved? Reach out through the in-app messenger or email our team with a short description of the problem, any error text, and a screenshot if you have one. We're always happy to dig in with you.
