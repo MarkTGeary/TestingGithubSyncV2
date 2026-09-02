@@ -7,14 +7,13 @@ service_agent: disabled
 copilot: disabled
 sales_agent: disabled
 ---
-
-# Getting Started
+# Getting Started {#h_d198efbf2c}
 
 Welcome. This guide covers the basics of setting up your account and workspace.
 
-To begin, open the Settings menu and update your profile, timezone, and
-notification preferences. Then invite your team members so everyone can
+To begin, open the Settings menu and update your profile, timezone, and  
+notification preferences. Then invite your team members so everyone can  
 collaborate.
 
-Once your workspace is configured, you're ready to start creating projects and
+Once your workspace is configured, you're ready to start creating projects and  
 exploring the platform.
