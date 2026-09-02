@@ -1,15 +1,16 @@
 ---
 title: Edit This Article
 description: A dedicated article for testing edits through GitHub sync.
-state: published
-service_agent: enabled
-copilot: enabled
+published: true
+audience: everyone
+service_agent: disabled
+copilot: disabled
+sales_agent: disabled
 ---
+# Edit This Article {#h_7b1e4059e2}
 
-# Edit This Article
+This article exists so testers can make an edit and confirm it syncs into Fin.  
+Edit this article and should stay the same here, and open a PR. After you merge the PR the article should change.
 
-This article exists so testers can make an edit and confirm it syncs into Fin.
-Change anything below — a word, a sentence, or the whole paragraph.
-
-The current version number is 1. When you edit, bump it so the change is easy
+The current version number is 1. When you edit, bump it so the change is easy  
 to spot on the Intercom side.
