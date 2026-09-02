@@ -10,7 +10,8 @@ sales_agent: disabled
 # Edit This Article {#h_7b1e4059e2}
 
 This article exists so testers can make an edit and confirm it syncs into Fin.  
-Edit this article and should stay the same here, and open a PR. After you merge the PR the article should change.
+Edit this article. It should open a PR on your Github repository. The article on Intercom should not be changed.
+Merge the PR on Github. The article should now be changed on Intercom
 
 The current version number is 1. When you edit, bump it so the change is easy  
 to spot on the Intercom side.
